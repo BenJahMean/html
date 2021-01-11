@@ -14,7 +14,7 @@
 }
 
 body {
-  font: 18px -apple-system, BlinkMacSystemFont, sans-serif;
+  font: 18px -apple-system, BlinkMacSystemFont, Microsoft sans-serif;
   line-height: 1.4;
   color: var(--tc);
   background: var(--bc);
